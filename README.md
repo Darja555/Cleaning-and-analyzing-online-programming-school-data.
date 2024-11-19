@@ -1,6 +1,6 @@
 # Cleaning-and-analyzing-online-programming-school-data.
 Project goal Cleaning and analyzing data from the CRM system to improve the efficiency of the online programming school.
-##Concept Description
+*Concept Description*
 You are a data analyst at a large company and have been given a new project by a client - the
 X online programming school. This project involves working with data from a
 CRM system that keeps track of lead and transaction statuses. Your task is to clean and
