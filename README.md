@@ -6,8 +6,7 @@ X online programming school. This project involves working with data from a
 CRM system that keeps track of lead and transaction statuses. Your task is to clean and
 analyze this data to improve the efficiency of the school.
 
-#Given the current business situation, this project included a Python DA assignment and a
-Product analytics assignment
+## This project included a Python DA assignment and a Product analytics assignment.
 
 *Python DA Assignment*
 - Data cleaning and preparation:
@@ -42,8 +41,9 @@ training.
 1. Analyze the geographic distribution of deals by city.
 2. Analyze the effect of German language proficiency on the success of deals in different cities.
 
-#Product analytics assignment
-Find a business growth point and formulate a business process improvement hypothesis
+*Product analytics assignment*
+
+ Find a business growth point and formulate a business process improvement hypothesis
 to grow metrics and describe their testing mechanics, taking into account that the test should not
 Should take more than 2 weeks to complete.
 1. Calculate unit economics by product.
