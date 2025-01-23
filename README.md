@@ -1,7 +1,8 @@
 # Cleaning-and-analyzing-online-programming-school-data.
 Project goal Cleaning and analyzing data from the CRM system to improve the efficiency of the online programming school.
 
-*Brief presentation: https://docs.google.com/presentation/d/1oYcaJsTqKFRIwFyyKt_hjBAKB5idNvKg5yjgkazxAj0/edit?usp=sharing
+*Brief presentation:
+https://docs.google.com/presentation/d/1oYcaJsTqKFRIwFyyKt_hjBAKB5idNvKg5yjgkazxAj0/edit?usp=sharing
 
 *Concept Description*
 ## This project included a Python DA assignment and a Product analytics assignment.
